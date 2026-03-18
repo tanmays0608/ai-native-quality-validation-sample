@@ -105,7 +105,7 @@ The application includes 46 diverse properties across the United States:
   - Santa Fe, NM - Authentic adobe hacienda
   - Napa Valley, CA - Luxury wine country estate
 - All properties feature unique images, detailed descriptions, and authentic amenities
-- Added test change
+- Added test changes
 
 
 
